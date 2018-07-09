@@ -1,0 +1,188 @@
+markers = [
+   {
+     "name": "CHD: Tetralogy of Fallot, Cebu PH",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 10.29415400,
+     "lng": 123.86495100
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 3.1285936, 
+     "lng": 101.6585658
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 22.539795,
+     "lng": 114.0506823
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 22.3526738,
+     "lng": 113.9876139
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 31.2271964,
+     "lng": 121.4495186
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 5.923076,
+     "lng": 116.0488283
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 35.7719867,
+     "lng": 140.3906614
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 37.4601908,
+     "lng": 125.880393
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 1.3139961,
+     "lng": 103.7041631
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 25.283943,
+     "lng": 51.3719108
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 48.8588377,
+     "lng": 2.2770202
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 41.3947688,
+     "lng": 2.0787279
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 33.7676338,
+     "lng": -84.5606889
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 41.8333925,
+     "lng": -88.0121482
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 36.198778,
+     "lng": -95.8860546
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 34.0201613,
+     "lng": -118.691921
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 36.1249185,
+     "lng": -115.3150847
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 46.3539993,
+     "lng": -97.848992
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 39.4782021,
+     "lng": -113.7903283
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 35.1498319,
+     "lng": -82.1045511
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 30.2036879,
+     "lng": -85.6734467
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 32.5562922,
+     "lng": -88.9244382
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 10.2880672,
+     "lng": 123.9489881
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 9.7241496,
+     "lng": 122.4178603
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 10.2311487,
+     "lng": 122.4085282
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 9.9022083,
+     "lng": 123.8832686
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 7.2532789,
+     "lng": 125.1708756
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 9.0590268,
+     "lng": 125.2078175
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 14.5964957,
+     "lng": 120.9445402
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 9.9785034,
+     "lng": 114.718855
+   },
+   {
+     "name": "CHD Condition?",
+     "url": "https://www.facebook.com/MavensHeartFund/",
+     "lat": 10.9904859,
+     "lng": 124.6190142
+   }
+];
